@@ -1,0 +1,6 @@
+.cache/
+__pycache__/
+*.pyc
+rsna_2026_exhibitors.csv
+rsna_2026_exhibitors.partial.csv
+rsna_2026_exhibitors.summary.json
